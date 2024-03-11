@@ -1,1 +1,2 @@
-# MT-FlatTax
+# Data and code for "How does a Move to a Flat Tax Affect Montana Household Filers?"
+This repository contains the data and code for the analyses in the *Research in Focus* article by [Richard W. Evans](https://sites.google.com/site/rickecon) ([@rickecon](https://github.com/rickecon)) and Paul Johnston ([@finpaul](https://github.com/finpaul)) entitled "How does a Move to a Flat Tax Affect Montana Household Filers?".
